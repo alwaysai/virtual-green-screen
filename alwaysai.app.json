@@ -1,0 +1,8 @@
+{
+  "models": {
+    "alwaysai/fcn_alexnet_pascal_voc": 1
+  },
+  "scripts": {
+    "start": "python app.py"
+  }
+}
