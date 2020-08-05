@@ -1,5 +1,7 @@
 # Virtual Green Screen Example App
-This app uses semantic segmentation to segment out a person from background noise in a video stream and replace the background with an image or blur it out. This app builds off of a methodology for segmenting out areas of interested, which can be found at the following link: https://learn.alwaysai.co/how-to-detect-pedestrians-and-bicyclists-in-a-cityscape-video. This app also demonstrates how to separate your app configuration information into a separate JSON file. For more details on this aspect of the app, please see the original blog: https://medium.com/@jalakoo_83320/using-a-computer-vision-classifier-to-sort-images-333d5090c0b4
+This app uses semantic segmentation to segment out a person from background noise in a video stream and replace the background with an image or blur it out. To see how this app was created, see the corresponding blog [article](https://alwaysai.co/blog/create-your-own-virtual-green-screen)
+
+This app builds off of a methodology for segmenting out areas of interested, which can be found at this [link](https://learn.alwaysai.co/how-to-detect-pedestrians-and-bicyclists-in-a-cityscape-video). This app also demonstrates how to separate your app configuration information into a separate JSON file. For more details on this aspect of the app, please see the original [blog](https://medium.com/@jalakoo_83320/using-a-computer-vision-classifier-to-sort-images-333d5090c0b4)
 
 ## Requirements
 To run this app, you will need an alwaysAI account. Please register at https://alwaysai.co/auth?register=true
