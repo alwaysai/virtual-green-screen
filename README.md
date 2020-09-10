@@ -17,7 +17,16 @@ This app uses a config.json file to specify different options:
 - use_background_image: `true` indicates that the background should be replaced with the value set for `image`
 
 ## Running
-See this [page](https://alwaysai.co/docs/getting_started/working_with_projects.html) for details on configuring projects with alwaysAI. Please see this [document](https://alwaysai.co/blog/building-and-deploying-apps-on-alwaysai) for details on building and deploying applications.
+Clone this repository into a desired working directory. Navigate to that directory in the terminal and enter 
+
+`aai app configure`
+
+and follow the propmts to configure your app.
+
+To instead start from scratch using a starter app from alwaysAI and modifying is as described in the original tutorial for this app, create a new project, selecting the `semantic segmentation` model and follow along with this [tutorial](https://alwaysai.co/blog/create-your-own-virtual-green-screen).
+
+
+Please see this [document](https://alwaysai.co/blog/building-and-deploying-apps-on-alwaysai) for details on building and deploying applications.
 
 ## Output
 You should see an image such as below if you select 'blur' and no background
