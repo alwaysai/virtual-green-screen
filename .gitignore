@@ -4,3 +4,5 @@ models/
 alwaysai.target.json
 alwaysai.project.json
 venv/
+
+alwaysai.project.json
