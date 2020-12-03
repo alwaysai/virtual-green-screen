@@ -93,7 +93,7 @@ def main():
                     shape = frame.shape[:2]
 
                     # resize the image
-                    background = cv.resize(img, (shape[1], shape[0]), interpolation=cv.INTER_NEAREST)
+                    background = edgeiq.resize(img, shape[1], shape[0], keep_scale=False)
 
                 if blur:
                     # blur the background:
