@@ -38,6 +38,7 @@ And you should see an image such as below if you select no blur and 'use_backgro
 ## Troubleshooting
 Docs: https://dashboard.alwaysai.co/docs/getting_started/introduction.html
 
-Community Discord: https://discord.gg/rjDdRPT
+Community Discord: https://discord.gg/alwaysai
 
 Email: support@alwaysai.co
+
