@@ -1,5 +1,5 @@
 # Virtual Green Screen Example App
-This app uses semantic segmentation to segment out a person from background noise in a video stream and replace the background with an image or blur it out. This app builds off of a methodology for segmenting out areas of interested, which can be found [here](https://alwaysai.co/blog/how-to-detect-pedestrians-and-bicyclists-in-a-cityscape-video). This app also demonstrates how to separate your app configuration information into a separate JSON file. For more details on this aspect of the app, please see the [original blog](https://medium.com/@jalakoo_83320/using-a-computer-vision-classifier-to-sort-images-333d5090c0b4).
+This app uses semantic segmentation to segment out a person from background noise in a video stream and replace the background with an image or blur it out. This app builds off of a methodology for segmenting out areas of interested, which can be found [here](https://alwaysai.co/resources/tutorials/how-to-detect-pedestrians-and-bicyclists-in-a-cityscape-video). This app also demonstrates how to separate your app configuration information into a separate JSON file. For more details on this aspect of the app, please see the [original blog](https://medium.com/@jalakoo_83320/using-a-computer-vision-classifier-to-sort-images-333d5090c0b4).
 
 ## Requirements
 
@@ -17,7 +17,7 @@ This app uses a config.json file to specify different options:
 - use_background_image: `true` indicates that the background should be replaced with the value set for `image`
 
 ## Running
-Clone this repository into a desired working directory. Navigate to that directory in the terminal and enter 
+Clone this repository into a desired working directory. Navigate to that directory in the terminal and enter
 
 `aai app configure`
 
@@ -35,10 +35,9 @@ You should see an image such as below if you select 'blur' and no background
 And you should see an image such as below if you select no blur and 'use_background_image'
 ![image](./static/beach.png)
 
-## Troubleshooting
-Docs: https://dashboard.alwaysai.co/docs/getting_started/introduction.html
 
-Community Discord: https://discord.gg/alwaysai
-
-Email: support@alwaysai.co
+## Support
+* [Documentation](https://alwaysai.co/docs/)
+* [Community Discord](https://discord.gg/z3t9pea)
+* Email: support@alwaysai.co
 
