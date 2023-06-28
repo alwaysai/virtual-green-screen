@@ -1,6 +1,6 @@
 {
   "models": {
-    "alwaysai/fcn_alexnet_pascal_voc": 1
+    "alwaysai/fcn_alexnet_pascal_voc": 2
   },
   "scripts": {
     "start": "python app.py"
