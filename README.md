@@ -24,7 +24,7 @@ and follow the propmts to configure your app.
 
 To instead start from scratch using a starter app from alwaysAI and modifying is as described in the original tutorial for this app, create a new project, selecting the `semantic segmentation` model and follow along with this [tutorial](https://alwaysai.co/blog/build-a-virtual-green-screen-with-semantic-segmentation).
 
-To change the computer vision model, the engine and accelerator, and add additional dependencies read [this guide](https://alwaysai.co/docs/application_development/configuration_and_packaging.html).
+To change the computer vision model, the engine and accelerator, and add additional dependencies read [this guide](https://docs.alwaysai.co/application_development/application_configuration.html).
 
 
 ## Output
